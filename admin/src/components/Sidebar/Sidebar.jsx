@@ -1,9 +1,9 @@
 import React from 'react'
-import './sidebar.css'
+import './Sidebar.css'
 import { assets } from '../../assets/assets'
 import { NavLink } from 'react-router-dom'
 
-const sidebar = () => {
+const Sidebar = () => {
   return (
     <div className='sidebar'>
       <div className="sidebar-options">
@@ -24,4 +24,4 @@ const sidebar = () => {
   )
 }
 
-export default sidebar
+export default Sidebar
