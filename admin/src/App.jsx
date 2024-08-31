@@ -10,7 +10,8 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
  
-  const url = "http://localhost:4000";
+  //const url = "http://localhost:4000";
+ const url = "https://mern-backend-44px.onrender.com";
 
   return (
     <div>
